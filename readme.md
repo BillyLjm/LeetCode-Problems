@@ -17,4 +17,5 @@ You can find me on LeetCode as [user3010yp](https://leetcode.com/user3010Yp/).
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
 |  652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Hashing](0652-Find_Duplicate_Subtrees.cpp) | Hashing, Binary Trees |
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
+| 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
