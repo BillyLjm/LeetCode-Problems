@@ -19,4 +19,5 @@ You can find me on LeetCode as [user3010yp](https://leetcode.com/user3010Yp/).
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
+| 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
