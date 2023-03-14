@@ -16,6 +16,7 @@ You can find me on LeetCode as [user3010yp](https://leetcode.com/user3010Yp/).
 |   72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | > [Dynamic Programming](0072-Edit_Distance--Dynamic_Programming.cpp)<br>> [Memoisation](72-Edit_Distance--Memoisation.cpp) | Recursion, Memoisation,<br>Dynamic Programming |
 |  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | > [Tree Traversal](0101-Symmetric_Tree.cpp) | Tree Traversal |
 |  109 | [Convert Sorted List<br>to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | > [Vector](0109-Convert_Sorted_List_to_Binary_Search_Tree--Vector.cpp)<br>> [No Mid-Finding](0109-Convert_Sorted_List_to_Binary_Search_Tree--No_Mid_Finding) | Linked Lists,<br>Binary Trees |
+|  129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Recursion](0129-Sum_Root_to_Leaf_Numbers.cpp) | Binary Trees |
 |  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Floyd's Cycle Finding](0142-Linked_List_Cycle_II.cpp) | Linked Lists |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
