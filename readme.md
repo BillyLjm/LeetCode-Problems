@@ -20,6 +20,7 @@ You can find me on LeetCode as [user3010yp](https://leetcode.com/user3010Yp/).
 |  129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Recursion](0129-Sum_Root_to_Leaf_Numbers.cpp) | Binary Trees |
 |  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Floyd's Cycle Finding](0142-Linked_List_Cycle_II.cpp) | Linked Lists |
 |  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0208-Implement_Trie_Prefix_Tree.cpp) | Trie/Prefix Tree |
+|  211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Trie/Prefix Tree](0211-Design_Add_and_Search_Words_Data_Structure.cpp) | Data Structures |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
