@@ -33,4 +33,5 @@ You can find me on LeetCode as [user3010yp](https://leetcode.com/user3010Yp/).
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Vector](1472-Design_Browser_History.cpp) | Data Structures |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
+| 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [Iteration](2348-Number_of_Zero_Filled_Subarrays.cpp) | Permutations |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
