@@ -35,3 +35,4 @@ You can find me on LeetCode as [user3010yp](https://leetcode.com/user3010Yp/).
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [Iteration](2348-Number_of_Zero_Filled_Subarrays.cpp) | Permutations |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
+| 2492 | [ Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | [Union Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
