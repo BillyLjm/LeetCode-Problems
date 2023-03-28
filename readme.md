@@ -30,6 +30,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Binary Search](0875-Koko_Eating_Bananas.cpp) | Binary Search, Integer Overflow |
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
 |  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/sort-an-array/) | [Depth-First Search](0958-Check_Completeness_of_a_Binary_Tree.cpp) | Binary Trees |
+|  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
 | 1319 | [Number of Operations to<br>Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | > [Union-Find](1319-Number_of_Operations_to_Make_Network_Connected-Union_Find.cpp)<br>>[Depth-First Search](1319-Number_of_Operations_to_Make_Network_Connected-Depth_First_Search.cpp) | Disjoint Sets |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
 | 1466 | [Reorder Routes to Make All<br>Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Breadth-First Search](1466-Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.cpp) | Tree Traversal |
