@@ -33,6 +33,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
 | 1319 | [Number of Operations to<br>Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | > [Union-Find](1319-Number_of_Operations_to_Make_Network_Connected-Union_Find.cpp)<br>>[Depth-First Search](1319-Number_of_Operations_to_Make_Network_Connected-Depth_First_Search.cpp) | Disjoint Sets |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](11402-Reducing_Dishes.cpp) | Problem-Solving |
 | 1466 | [Reorder Routes to Make All<br>Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Breadth-First Search](1466-Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.cpp) | Tree Traversal |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Vector](1472-Design_Browser_History.cpp) | Data Structures |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
