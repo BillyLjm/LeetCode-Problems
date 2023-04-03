@@ -30,6 +30,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Hashing](0652-Find_Duplicate_Subtrees.cpp) | Hashing, Binary Trees |
 |  704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Binary Search](0704-Binary_Search.cpp) | Array Searching |
 |  875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Binary Search](0875-Koko_Eating_Bananas.cpp) | Binary Search, Integer Overflow |
+|  881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Greedy](0881-Boats_to_Save_People.cpp) | Problem Solving |
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
 |  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/sort-an-array/) | [Depth-First Search](0958-Check_Completeness_of_a_Binary_Tree.cpp) | Binary Trees |
 |  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
