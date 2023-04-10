@@ -11,6 +11,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 ## Problems
 | Num  |      Title      |  Solutions  | Concepts |
 |:----:|:---------------:|:-----------:|:--------:|
+|   20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Stack](0020-Valid_Parentheses.cpp) | Stack |
 |   23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Priority Queue](0023-Merge_k_Sorted_Lists.cpp) | Priority Queue, Pointers |
 |   28 | [Find the Index of the First<br>Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [KMP Substring](0028-Find_The_Index_Of_The_First_Occurence_In_A_String.cpp) | Find Patterns |
 |   64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Dynamic Programming](0064-Minimum_Path_Sum.cpp) | Path Searching |
