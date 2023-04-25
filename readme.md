@@ -50,6 +50,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Array Sorting](2300-Successful_Pairs_of_Spells_and_Potion.cpp) | Sorted Arrays |
 | 2316 | [Count Unreachable Pairs of<br>Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Union-Find](2316_Count_Unreachable_Pairs_of_Nodes_in_a_Undirected_Graph.cpp) | Disjoint Sets |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Sets](2336-Smallest_Number_in_Inifinite_Set.cpp) | Ordered Sets |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Iteration](2348-Number_of_Zero_Filled_Subarrays.cpp) | Permutations |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Kahn's Topological Sort](2360-Longest_Cycle_in_a_Graph.cpp) | Graph Cycles |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Stack](2390-Removing_Stars_From_a_String.cpp) | Iteration |
