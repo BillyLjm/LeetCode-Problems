@@ -27,6 +27,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0208-Implement_Trie_Prefix_Tree.cpp) | Trie/Prefix Tree |
 |  211 | [Design Add and Search<br>Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Trie/Prefix Tree](0211-Design_Add_and_Search_Words_Data_Structure.cpp) | Data Structures |
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Maths](0258-Add_Digits.cpp) | Maths |
+|  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Maths](0319-Bulb_Switcher.cpp) | Maths |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
@@ -47,7 +48,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1466 | [Reorder Routes to Make All<br>Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Breadth-First Search](1466-Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.cpp) | Tree Traversal |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Vector](1472-Design_Browser_History.cpp) | Data Structures |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
-| 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topo Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
+| 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Array Sorting](2300-Successful_Pairs_of_Spells_and_Potion.cpp) | Sorted Arrays |
 | 2316 | [Count Unreachable Pairs of<br>Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Union-Find](2316_Count_Unreachable_Pairs_of_Nodes_in_a_Undirected_Graph.cpp) | Disjoint Sets |
@@ -58,4 +59,4 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [Greedy](2405-Optimal_Partition_of_String.cpp) | Problem Solving |
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [Greedy](2439-Minimize_Maximum_of_Array.cpp) | Problem Solving |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
-| 2492 | [Minimum Score of a<br>Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Union Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
+| 2492 | [Minimum Score of a<br>Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Union-Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
