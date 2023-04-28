@@ -34,6 +34,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Iteration](0605-Can_Place_Flowers.cpp) | Logic |
 |  652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Hashing](0652-Find_Duplicate_Subtrees.cpp) | Hashing, Binary Trees |
 |  704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Binary Search](0704-Binary_Search.cpp) | Array Searching |
+|  839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Union-Find](0839-Similar_String_Groups.cpp) | Disjoint Sets |
 |  875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Binary Search](0875-Koko_Eating_Bananas.cpp) | Binary Search, Integer Overflow |
 |  881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Greedy](0881-Boats_to_Save_People.cpp) | Problem Solving |
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
