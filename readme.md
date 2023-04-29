@@ -49,6 +49,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1466 | [Reorder Routes to Make All<br>Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Breadth-First Search](1466-Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.cpp) | Tree Traversal |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Vector](1472-Design_Browser_History.cpp) | Data Structures |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
+| 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Array Sorting](2300-Successful_Pairs_of_Spells_and_Potion.cpp) | Sorted Arrays |
