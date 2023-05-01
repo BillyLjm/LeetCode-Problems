@@ -48,6 +48,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](11402-Reducing_Dishes.cpp) | Problem-Solving |
 | 1466 | [Reorder Routes to Make All<br>Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Breadth-First Search](1466-Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.cpp) | Tree Traversal |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Vector](1472-Design_Browser_History.cpp) | Data Structures |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Iteration](1491-Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.cpp) | Data Types |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Union-Find](1579-Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Disjoint Sets |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
