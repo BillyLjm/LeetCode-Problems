@@ -52,6 +52,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Union-Find](1579-Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Disjoint Sets |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Iteration](1822-Sign_of_the_Product_of_an_Array.cpp) | Minimal Resource |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Array Sorting](2300-Successful_Pairs_of_Spells_and_Potion.cpp) | Sorted Arrays |
