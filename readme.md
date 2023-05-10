@@ -15,6 +15,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Priority Queue](0023-Merge_k_Sorted_Lists.cpp) | Priority Queue, Pointers |
 |   28 | [Find the Index of the First<br>Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [KMP Substring](0028-Find_The_Index_Of_The_First_Occurence_In_A_String.cpp) | Find Patterns |
 |   54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Indexing](0054-Spiral_Matrix.cpp) | Arrays |
+|   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
 |   64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Dynamic Programming](0064-Minimum_Path_Sum.cpp) | Path Searching |
 |   71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Vector](0071-Simplify_Path.cpp) | String Parsing |
 |   72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | > [Dynamic Programming](0072-Edit_Distance--Dynamic_Programming.cpp)<br>> [Memoisation](72-Edit_Distance--Memoisation.cpp) | Recursion, Memoisation,<br>Dynamic Programming |
