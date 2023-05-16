@@ -13,6 +13,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |:----:|:---------------:|:-----------:|:--------:|
 |   20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Stack](0020-Valid_Parentheses.cpp) | Stack |
 |   23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Priority Queue](0023-Merge_k_Sorted_Lists.cpp) | Priority Queue, Pointers |
+|   24 | [Swap Nodes in Pairs](ttps://leetcode.com/problems/swap-nodes-in-pairs/) | [Pointers](0024-Swap_Nodes_in_Pairs.cpp) | Linked Lists |
 |   28 | [Find the Index of the First<br>Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [KMP Substring](0028-Find_The_Index_Of_The_First_Occurence_In_A_String.cpp) | Find Patterns |
 |   54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Indexing](0054-Spiral_Matrix.cpp) | Arrays |
 |   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
