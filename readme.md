@@ -13,7 +13,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |:----:|:---------------:|:-----------:|:--------:|
 |   20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Stack](0020-Valid_Parentheses.cpp) | Stack |
 |   23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Priority Queue](0023-Merge_k_Sorted_Lists.cpp) | Priority Queue, Pointers |
-|   24 | [Swap Nodes in Pairs](ttps://leetcode.com/problems/swap-nodes-in-pairs/) | [Pointers](0024-Swap_Nodes_in_Pairs.cpp) | Linked Lists |
+|   24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Pointers](0024-Swap_Nodes_in_Pairs.cpp) | Linked Lists |
 |   28 | [Find the Index of the First<br>Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [KMP Substring](0028-Find_The_Index_Of_The_First_Occurence_In_A_String.cpp) | Find Patterns |
 |   54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Indexing](0054-Spiral_Matrix.cpp) | Arrays |
 |   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
@@ -65,6 +65,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Iteration](1822-Sign_of_the_Product_of_an_Array.cpp) | Minimal Resource |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [Dynamic Programming](2187-Minimum_Time_To_Complete_Trips.cpp) | Permutations |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Reverse Linked List](2130-Maximum_Twin_Sum_of_Linked_List.cpp) | Linked Lists |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Dynamic Programming](2140-Solving_Questions_with_Brainpower.cpp) | Optimal Substructure |
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Hashmap](2215-Find_The_Difference_of_Two_Arrays.cpp) | Arrays |
