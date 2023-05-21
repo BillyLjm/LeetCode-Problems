@@ -44,6 +44,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Binary Search](0875-Koko_Eating_Bananas.cpp) | Binary Search, Integer Overflow |
 |  881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Greedy](0881-Boats_to_Save_People.cpp) | Problem Solving |
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
+|  934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Breadth-First Search](0934-Shortest_Bridge.cpp) | Graphs |
 |  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/sort-an-array/) | [Depth-First Search](0958-Check_Completeness_of_a_Binary_Tree.cpp) | Binary Trees |
 |  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Flood Fill](1020-Number_of_Encalves.cpp) | Recursion |
