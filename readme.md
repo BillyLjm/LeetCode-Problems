@@ -69,6 +69,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Topo Sort](1557-Minimum_Number_of_Vertices_to_Reach_All_Nodes.cpp) | Directed Graphs |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Indexing](1572-Matrix_Diagonal_Sum.cpp) | Arrays |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Union-Find](1579-Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Disjoint Sets |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Vector](1603-Design_Parking_System.cpp) | Classes |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Value Swap](1721-Swapping_Nodes_in_a_Linked_List.cpp) | Linked Lists |
 | 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Dynamic Programming](1799-Maximize_Score_after_N_Operations.cpp) | Substructure, Data Types |
