@@ -58,6 +58,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
 | 1319 | [Number of Operations to<br>Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | > [Union-Find](1319-Number_of_Operations_to_Make_Network_Connected-Union_Find.cpp)<br>>[Depth-First Search](1319-Number_of_Operations_to_Make_Network_Connected-Depth_First_Search.cpp) | Disjoint Sets |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Unordered Maps](1396_Design_Underground_System.cpp) | Data Structures |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](1402-Reducing_Dishes.cpp) | Problem-Solving |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Memoisation](1406_Stone_Game_III.cpp) | Problem-Solving |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Sliding Window](1456-Maximum_Number_of_Vowels_in_a_Substing_of_Given_Length.cpp) | Problem-Solving |
