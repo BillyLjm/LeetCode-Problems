@@ -39,6 +39,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Iteration](0605-Can_Place_Flowers.cpp) | Logic |
 |  649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Greedy](0649-Dota2_Senate.cpp) | Data Structures |
 |  652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Hashing](0652-Find_Duplicate_Subtrees.cpp) | Hashing, Binary Trees |
+|  685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Union-Find](0685-Redundant_Connection_II.cpp) | Trees |
 |  703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Priority Queue](0703-Kth_Largest_Element_in_Stream.cpp) | Heap |
 |  704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Binary Search](0704-Binary_Search.cpp) | Array Searching |
 |  705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Vector](0705-Design_HashSet.cpp) | Data Structure |
