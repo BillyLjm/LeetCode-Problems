@@ -7,6 +7,7 @@
  * Problem
  * =======
  * https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+ * 
  * Alice and Bob have an undirected graph of n nodes and three types of edges:
  * - Type 1: Can be traversed by Alice only.
  * - Type 2: Can be traversed by Bob only.
@@ -47,7 +48,6 @@
 #include <vector>
 #include <string>
 #include <numeric>
-#include <algorithm>
 
 /**
  * Union-find/Disjoint-set data structure

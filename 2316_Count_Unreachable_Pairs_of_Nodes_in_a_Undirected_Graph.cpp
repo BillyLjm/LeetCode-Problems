@@ -7,6 +7,7 @@
  * Problem
  * =======
  * https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
+ * 
  * You are given an integer n. There is an undirected graph with n nodes,
  * numbered from 0 to n - 1. You are given a 2D integer array edges where
  * edges[i] = [ai, bi] denotes that there exists an undirected edge connecting
@@ -25,8 +26,67 @@
 
 #include <iostream>
 #include <vector>
-#include <algorithm>
+#include <numeric>
 
+/**
+ * Union-find/Disjoint-set data structure
+ */
+class UnionFind {
+private:
+	std::vector<int> parent, rank;
+
+public:
+	/**
+	 * Class Constructor
+	 *
+	 * @param size total number of nodes
+	 */
+	UnionFind(int size) {
+		parent = std::vector<int>(size);
+		std::iota(std::begin(parent), std::end(parent), 0);
+		rank = std::vector<int>(size, 0);
+	}
+
+	/**
+	 * Find set of node. Uses path compression.
+	 *
+	 * @param i node to find parent of
+	 *
+	 * @return parent of node[i]
+	 */
+	int find(int i) {
+		if (parent[i] != i) {
+			parent[i] = find(parent[i]);
+		}
+		return parent[i];
+	}
+
+	/**
+	 * Union of connected cities. Uses union by rank.
+	 *
+	 * @param x node to union with y
+	 * @param y node to union with x
+	 */
+	void unionn(int x, int y) {
+		int xroot = find(x);
+		int yroot = find(y);
+
+		if (rank[xroot] < rank[yroot]) {
+			parent[xroot] = yroot;
+		}
+		else if (rank[xroot] > rank[yroot]) {
+			parent[yroot] = xroot;
+		}
+		else {
+			parent[yroot] = xroot;
+			rank[xroot]++;
+		}
+	}
+};
+
+/**
+ * Solution
+ */
 class Solution {
 public:
 	/**
@@ -39,82 +99,25 @@ public:
 	 */
 	long long countPairs(int n, std::vector<std::vector<int>>& edges) {
 		// union-find algorithm
-		std::vector<subset> subsets(n); // disjoint-set {child/city: parent/set}
-		std::vector<int> count(n, 1); // count of cities in each set
-		for (int i = 0; i < n; i++) {
-			subsets[i] = { i, 0 };
-		}
-		for (const std::vector<int> edge : edges) {
-			unionn(subsets, count, find(subsets, edge[0]),
-				find(subsets, edge[1]));
+		UnionFind uf(n);
+		for (std::vector<int> edge : edges) {
+			uf.unionn(edge[0], edge[1]);
 		}
 
-		// count number of pairs across disjoint sets
+		// count members in each disjoint set
+		std::vector<int> members(n, 0);
+		for (int i = 0; i < n; i++) {
+			members[uf.find(i)]++;
+		}
+
+		// count pairs across each disjoint subset
 		long long pairs = 0LL; // number of pairs
 		long long sum = 0LL; // cumulative sum
-		for (int c : count) {
+		for (int c : members) {
 			pairs += sum * c;
 			sum += c;
 		}
 		return pairs;
-	}
-
-private:
-	/**
-	 * Disjoint-set data structure
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 */
-	struct subset {
-		int parent;
-		int rank;
-	};
-
-	/**
-	 * Find set of city. Uses path compression.
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 *
-	 * @param subsets disjoint-set {child/city: parent/set}
-	 * @param i city to find
-	 *
-	 * @return parent of city i
-	 */
-	int find(std::vector<subset>& subsets, int i) {
-		if (subsets[i].parent != i) {
-			subsets[i].parent = find(subsets, subsets[i].parent);
-		}
-		return subsets[i].parent;
-	}
-
-	/**
-	 * Union of connected cities. Uses union by rank.
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 * and updates the count of cities in each set.
-	 *
-	 * @param subsets disjoint-set {city: set}
-	 * @param count count of cities in each set {set: count}
-	 * @param xroot parent of city x
-	 * @param yroot parent of city y
-	 */
-	void unionn(std::vector<subset> &subsets, std::vector<int>& count,
-		int xroot, int yroot) {
-		if (xroot != yroot) {
-			if (subsets[xroot].rank < subsets[yroot].rank) {
-				subsets[xroot].parent = yroot;
-				count[yroot] += count[xroot];
-				count[xroot] = 0;
-			}
-			else if (subsets[xroot].rank > subsets[yroot].rank) {
-				subsets[yroot].parent = xroot;
-				count[xroot] += count[yroot];
-				count[yroot] = 0;
-			}
-			else {
-				subsets[yroot].parent = xroot;
-				count[xroot] += count[yroot];
-				count[yroot] = 0;
-				subsets[xroot].rank++;
-			}
-		}
 	}
 };
 

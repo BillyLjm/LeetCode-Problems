@@ -7,6 +7,7 @@
  * Problem
  * =======
  * https://leetcode.com/problems/number-of-operations-to-make-network-connected
+ * 
  * There are n computers numbered from 0 to n - 1 connected by ethernet cables
  * connections forming a network where connections[i] = [ai, bi] represents a
  * connection between computers ai and bi. Any computer can reach any other
@@ -36,8 +37,82 @@
 
 #include <iostream>
 #include <vector>
-#include <map>
+#include <numeric>
 
+/**
+ * Union-find/Disjoint-set data structure
+ */
+class UnionFind {
+private:
+	std::vector<int> parent, rank;
+
+public:
+	/**
+	 * Class Constructor
+	 *
+	 * @param size total number of nodes
+	 */
+	UnionFind(int size) {
+		parent = std::vector<int>(size);
+		std::iota(std::begin(parent), std::end(parent), 0);
+		rank = std::vector<int>(size, 0);
+	}
+
+	/**
+	 * Find set of node. Uses path compression.
+	 *
+	 * @param i node to find parent of
+	 *
+	 * @return parent of node[i]
+	 */
+	int find(int i) {
+		if (parent[i] != i) {
+			parent[i] = find(parent[i]);
+		}
+		return parent[i];
+	}
+
+	/**
+	 * Union of connected cities. Uses union by rank.
+	 *
+	 * @param x node to union with y
+	 * @param y node to union with x
+	 */
+	void unionn(int x, int y) {
+		int xroot = find(x);
+		int yroot = find(y);
+
+		if (rank[xroot] < rank[yroot]) {
+			parent[xroot] = yroot;
+		}
+		else if (rank[xroot] > rank[yroot]) {
+			parent[yroot] = xroot;
+		}
+		else {
+			parent[yroot] = xroot;
+			rank[xroot]++;
+		}
+	}
+
+	/**
+	 * Count number of disjoint subsets
+	 *
+	 * @return number of disjoint subsets
+	 */
+	int count() {
+		int size = 0;
+		for (int i = 0; i < parent.size(); i++) {
+			if (parent[i] == i) {
+				size++;
+			}
+		}
+		return size;
+	}
+};
+
+/**
+ * Solution
+ */
 class Solution {
 public:
 	/**
@@ -54,77 +129,13 @@ public:
 			return -1;
 		}
 
-		// create disjoint-set data structure
-		int nsets = n;
-		std::map<int, subset> subsets; // {computer: set}
-		for (int i = 0; i < n; i++) {
-			subsets[i] = { i, 0 };
-		}
-
-		// disjoint-set union-find algorithm
+		// disjoint-set union find
+		UnionFind uf(n);
 		for (const std::vector<int> connection : connections) {
-			nsets = unionn(subsets, find(subsets, connection[0]),
-				find(subsets, connection[1]), nsets);
+			uf.unionn(connection[0], connection[1]);
 		}
 
-		return nsets - 1;
-	}
-
-private:
-	/**
-	 * Disjoint-set data structure
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 */
-	struct subset {
-		int parent;
-		int rank;
-	};
-
-	/**
-	 * Find set of city. Uses path compression.
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 *
-	 * @param subsets disjoint-set {child/city: parent/set}
-	 * @param i city to find
-	 *
-	 * @return parent of city i
-	 */
-	int find(std::map<int, subset>& subsets, int i) {
-		if (subsets[i].parent != i) {
-			subsets[i].parent = find(subsets, subsets[i].parent);
-		}
-		return subsets[i].parent;
-	}
-
-	/**
-	 * Union of connected cities. Uses union by rank.
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 * Also updates the count of the number of disjoint sets
-	 *
-	 * @param subsets disjoint-set {child/city: parent/set}
-	 * @param xroot parent of city x
-	 * @param yroot parent of city y
-	 * @param nsets number of disjoint sets before union
-	 *
-	 * @return number of disjoint sets after union
-	 */
-	int unionn(std::map<int, subset>& subsets, int xroot, int yroot, int nsets) {
-		if (xroot == yroot) {
-			return nsets;
-		}
-		else {
-			if (subsets[xroot].rank < subsets[yroot].rank) {
-				subsets[xroot].parent = yroot;
-			}
-			else if (subsets[xroot].rank > subsets[yroot].rank) {
-				subsets[yroot].parent = xroot;
-			}
-			else {
-				subsets[yroot].parent = xroot;
-				subsets[xroot].rank++;
-			}
-			return nsets - 1;
-		}
+		return uf.count() - 1;
 	}
 };
 

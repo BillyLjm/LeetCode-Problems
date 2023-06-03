@@ -7,6 +7,7 @@
  * Problem
  * =======
  * https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
+ * 
  * You are given a positive integer n representing n cities numbered from 1 to n.
  * You are also given a 2D array roads where roads[i] = [ai, bi, distancei]
  * indicates that there is a bidirectional road between cities ai and bi with a
@@ -28,18 +29,76 @@
  * described in the website above. This would result in each union/find having
  * O(n) runtime.
  *
+ * However, the implementation in the above website has a lot of overhead due to
+ * the struct. Thus, we'll use a lighter union-find implmenetation here.
+ *
  * Thus, the overall time complexity would be O(n*e), and space complexity be
  * O(n), where n is the number of cities and e is the number of edges.
- *
- * Apparently, this doesn't do very well in terms of runtime in LeetCode. It
- * seems to be in the bottom 5th percentile. Nevertheless, I never implemented
- * this algorithm before and think it'll be cool to keep.
  ******************************************************************************/
 
 #include <iostream>
 #include <vector>
-#include <map>
+#include <numeric>
 
+/**
+ * Union-find/Disjoint-set data structure
+ */
+class UnionFind {
+private:
+	std::vector<int> parent, rank;
+
+public:
+	/**
+	 * Class Constructor
+	 *
+	 * @param size total number of nodes
+	 */
+	UnionFind(int size) {
+		parent = std::vector<int>(size);
+		std::iota(std::begin(parent), std::end(parent), 0);
+		rank = std::vector<int>(size, 0);
+	}
+
+	/**
+	 * Find set of node. Uses path compression.
+	 *
+	 * @param i node to find parent of
+	 *
+	 * @return parent of node[i]
+	 */
+	int find(int i) {
+		if (parent[i] != i) {
+			parent[i] = find(parent[i]);
+		}
+		return parent[i];
+	}
+
+	/**
+	 * Union of connected cities. Uses union by rank.
+	 *
+	 * @param x node to union with y
+	 * @param y node to union with x
+	 */
+	void unionn(int x, int y) {
+		int xroot = find(x);
+		int yroot = find(y);
+
+		if (rank[xroot] < rank[yroot]) {
+			parent[xroot] = yroot;
+		}
+		else if (rank[xroot] > rank[yroot]) {
+			parent[yroot] = xroot;
+		}
+		else {
+			parent[yroot] = xroot;
+			rank[xroot]++;
+		}
+	}
+};
+
+/**
+ * Solution
+ */
 class Solution {
 public:
 	/**
@@ -51,94 +110,26 @@ public:
 	 * @return minimum road distance that is connected to city 1 and city n
 	 */
 	int minScore(int n, std::vector<std::vector<int>>& roads) {
-		std::map<int, int> mindist; // {city: minimum road distance}
-		std::map<int, subset> subsets; // disjoint-set {child/city: parent/set}
-
-		for (const std::vector<int> road : roads) {
-			// update mindist
-			if (mindist[road[0]] == NULL or mindist[road[0]] > road[2]) {
-				mindist[road[0]] = road[2];
-			}
-			if (mindist[road[1]] == NULL or mindist[road[1]] > road[2]) {
-				mindist[road[1]] = road[2];
-			}
-
-			// insert new cities into set
-			if (subsets.find(road[0]) == subsets.end()) {
-				subsets[road[0]].parent = road[0];
-				subsets[road[0]].rank = 0;
-			}
-			if (subsets.find(road[1]) == subsets.end()) {
-				subsets[road[1]].parent = road[1];
-				subsets[road[1]].rank = 0;
-			}
-
-			// disjoint-set algorithm
-			unionn(subsets, find(subsets, road[0]), find(subsets, road[1]));
+		// union-find
+		UnionFind uf(n + 1);
+		for (std::vector<int> road : roads) {
+			uf.unionn(road[0], road[1]);
 		}
 
 		// check city 0 and n connected
-		int index = find(subsets, 1);
-		if (index != find(subsets, n)) {
+		if (uf.find(1) != uf.find(n)) {
 			return -1;
 		}
 
 		// find minimum distance of desired set
-		int out = mindist[1];
-		for (const auto& x : mindist) {
-			if (x.second < out) {
-				if (find(subsets, x.first) == index) {
-					out = x.second;
+		else {
+			int mindist = INT_MAX;
+			for (std::vector<int> road : roads) {
+				if (uf.find(road[0]) == uf.find(1)) {
+					mindist = std::min(mindist, road[2]);
 				}
 			}
-		}
-		return out;
-	}
-
-private:
-	/**
-	 * Disjoint-set data structure
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 */
-	struct subset {
-		int parent;
-		int rank;
-	};
-
-	/**
-	 * Find set of city. Uses path compression.
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 *
-	 * @param subsets disjoint-set {child/city: parent/set}
-	 * @param i city to find
-	 *
-	 * @return parent of city i
-	 */
-	int find(std::map<int, subset>& subsets, int i) {
-		if (subsets[i].parent != i) {
-			subsets[i].parent = find(subsets, subsets[i].parent);
-		}
-		return subsets[i].parent;
-	}
-
-	/**
-	 * Union of connected cities. Uses union by rank.
-	 * https://www.geeksforgeeks.org/union-by-rank-and-path-compression-in-union-find-algorithm/
-	 *
-	 * @param subsets disjoint-set {child/city: parent/set}
-	 * @param xroot parent of city x
-	 * @param yroot parent of city y
-	 */
-	void unionn(std::map<int, subset>& subsets, int xroot, int yroot) {
-		if (subsets[xroot].rank < subsets[yroot].rank) {
-			subsets[xroot].parent = yroot;
-		}
-		else if (subsets[xroot].rank > subsets[yroot].rank) {
-			subsets[yroot].parent = xroot;
-		}
-		else {
-			subsets[yroot].parent = xroot;
-			subsets[xroot].rank++;
+			return mindist;
 		}
 	}
 };
