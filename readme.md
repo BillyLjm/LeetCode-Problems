@@ -59,6 +59,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
 | 1319 | [Number of Operations to<br>Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | > [Union-Find](1319-Number_of_Operations_to_Make_Network_Connected-Union_Find.cpp)<br>>[Depth-First Search](1319-Number_of_Operations_to_Make_Network_Connected-Depth_First_Search.cpp) | Disjoint Sets |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
+| 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Depth First Search](1376-Time_Needed_to_Inform_All_Employees.cpp) | Tree Traversal |
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Unordered Maps](1396_Design_Underground_System.cpp) | Data Structures |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](1402-Reducing_Dishes.cpp) | Problem-Solving |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Memoisation](1406_Stone_Game_III.cpp) | Problem-Solving |
