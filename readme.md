@@ -36,6 +36,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Depth-First Search](0399-Evaluate_Division.cpp) | Graph Representation |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
+|  547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Union-Find](0547-Number_of_Provinces.cpp) | Disjoint Sets|
 |  605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Iteration](0605-Can_Place_Flowers.cpp) | Logic |
 |  649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Greedy](0649-Dota2_Senate.cpp) | Data Structures |
 |  652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Hashing](0652-Find_Duplicate_Subtrees.cpp) | Hashing, Binary Trees |
