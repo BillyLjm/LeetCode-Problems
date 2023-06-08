@@ -63,6 +63,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Bitwise](1318-Minimum_Flips_to_Make_A_Or_B_Equal_to_C.cpp) | Bitwise Operations |
 | 1319 | [Number of Operations to<br>Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | > [Union-Find](1319-Number_of_Operations_to_Make_Network_Connected-Union_Find.cpp)<br>>[Depth-First Search](1319-Number_of_Operations_to_Make_Network_Connected-Depth_First_Search.cpp) | Disjoint Sets |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Iteration](1351-Count_Negative_Numbers_in_a_Sorted_Matrix.cpp) | Iteration |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Depth First Search](1376-Time_Needed_to_Inform_All_Employees.cpp) | Tree Traversal |
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Unordered Maps](1396_Design_Underground_System.cpp) | Data Structures |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](1402-Reducing_Dishes.cpp) | Problem-Solving |
