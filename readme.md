@@ -60,6 +60,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1144 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Dynamic Programming](1444-Number_of_Ways_of_Cutting_a_Pizza.cpp) | Problem Solving |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Slope](1232_Check_If_It_Is_a_Straight_line.cpp) | Geometry |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Bitwise](1318-Minimum_Flips_to_Make_A_Or_B_Equal_to_C.cpp) | Bitwise Operations |
 | 1319 | [Number of Operations to<br>Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | > [Union-Find](1319-Number_of_Operations_to_Make_Network_Connected-Union_Find.cpp)<br>>[Depth-First Search](1319-Number_of_Operations_to_Make_Network_Connected-Depth_First_Search.cpp) | Disjoint Sets |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Depth First Search](1376-Time_Needed_to_Inform_All_Employees.cpp) | Tree Traversal |
