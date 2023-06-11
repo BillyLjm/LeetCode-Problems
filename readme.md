@@ -59,6 +59,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](11091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Memoisation](1140-Stone_Game_II.cpp) | Problem Solving |
 | 1144 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Dynamic Programming](1444-Number_of_Ways_of_Cutting_a_Pizza.cpp) | Problem Solving |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [Changelog](1146-Snapshot_Array.cpp) | Version Control |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Slope](1232_Check_If_It_Is_a_Straight_line.cpp) | Geometry |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Bitwise](1318-Minimum_Flips_to_Make_A_Or_B_Equal_to_C.cpp) | Bitwise Operations |
