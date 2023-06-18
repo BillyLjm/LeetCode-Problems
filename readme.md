@@ -100,6 +100,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Hashmap](2215-Find_The_Difference_of_Two_Arrays.cpp) | Arrays |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Array Sorting](2300-Successful_Pairs_of_Spells_and_Potion.cpp) | Sorted Arrays |
+| 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [Dynamic Programming](2328-Number_of_Increasing_Paths_in_a_Grid.java) | Problem Solving |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Hashmap](2352-Equal_Row_and_Column_Pairs.java) | Value Lookup |
 | 2316 | [Count Unreachable Pairs of<br>Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Union-Find](2316_Count_Unreachable_Pairs_of_Nodes_in_a_Undirected_Graph.cpp) | Disjoint Sets |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Sets](2336-Smallest_Number_in_Inifinite_Set.cpp) | Ordered Sets |
