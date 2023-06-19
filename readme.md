@@ -89,6 +89,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Vector](1603-Design_Parking_System.cpp) | Classes |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Value Swap](1721-Swapping_Nodes_in_a_Linked_List.cpp) | Linked Lists |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Iteration](1732-Find_the_Highest_Altitude.java) | Arrays |
 | 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Dynamic Programming](1799-Maximize_Score_after_N_Operations.cpp) | Substructure, Data Types |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [Binary Search](1802-Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.cpp) | Problem Solving |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Iteration](1822-Sign_of_the_Product_of_an_Array.cpp) | Minimal Resource |
