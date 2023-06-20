@@ -95,6 +95,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Iteration](1822-Sign_of_the_Product_of_an_Array.cpp) | Minimal Resource |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [Dynamic Programming](2187-Minimum_Time_To_Complete_Trips.cpp) | Permutations |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Sliding Window](2090-K_Radius_Subarray_Averages.java) | Iteration |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Sweepline DFS](2101_Detonate_the_Maximum_Bombs.cpp) | Geometry |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Reverse Linked List](2130-Maximum_Twin_Sum_of_Linked_List.cpp) | Linked Lists |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Dynamic Programming](2140-Solving_Questions_with_Brainpower.cpp) | Optimal Substructure |
