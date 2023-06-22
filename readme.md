@@ -46,6 +46,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Priority Queue](0703-Kth_Largest_Element_in_Stream.cpp) | Heap |
 |  704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Binary Search](0704-Binary_Search.cpp) | Array Searching |
 |  705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Vector](0705-Design_HashSet.cpp) | Data Structure |
+|  714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Iteration](0714-Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java) | Iteration |
 |  744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Binary Search](0744-Find_Smallest_Letter_Greater_Than_Target.cpp) | Search |
 |  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/ | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
 |  837 | [New   21 Game](https://leetcode.com/problems/new-21-game/) | [Dynamic Programming](0837-New_21_Game.cpp) | Problem Solving |
