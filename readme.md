@@ -58,6 +58,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/sort-an-array/) | [Depth-First Search](0958-Check_Completeness_of_a_Binary_Tree.cpp) | Binary Trees |
 |  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Flood Fill](1020-Number_of_Enclaves.cpp) | Recursion |
+| 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Hashmap](1027-Longest_Arithmetic_Subsequence.java) | Time Complexity |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Dynamic Programming](1035-Uncrossed_Lines.cpp) | Subsequences |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](1091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Memoisation](1140-Stone_Game_II.cpp) | Problem Solving |
