@@ -117,6 +117,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [Greedy](2439-Minimize_Maximum_of_Array.cpp) | Problem Solving |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [Convex Optimisation](2448-Minimum_Cost_to_Make_Array_Equal.java) | Optimisation |
+| 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [Priority Queue](2462-Total_Cost_to_Hire_K_Workers.java) | Queues |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Dynamic Programming](2466-Count_Ways_to_Build_Good_Strings.cpp) | Optimal Substructure |
 | 2492 | [Minimum Score of a<br>Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Union-Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Problem Reduction](2542-Maximum_Subsequence_Score.cpp) | Problem Solving |
