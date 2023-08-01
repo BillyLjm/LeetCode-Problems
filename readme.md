@@ -20,6 +20,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Dynamic Programming](0064-Minimum_Path_Sum.cpp) | Path Searching |
 |   71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Vector](0071-Simplify_Path.cpp) | String Parsing |
 |   72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | > [Dynamic Programming](0072-Edit_Distance--Dynamic_Programming.cpp)<br>> [Memoisation](0072-Edit_Distance--Memoisation.cpp) | Recursion, Memoisation,<br>Dynamic Programming |
+|   77 | [Combinations](https://leetcode.com/problems/combinations/) | [Recursion](0077-Combinations.cpp) | Combinatorics |
 |   87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [Dynamic Programming](0087-Scramble_String.cpp) | Substrings |
 |  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Tree Traversal](0101-Symmetric_Tree.cpp) | Tree Traversal |
 |  106 | [Construct Binary Tree from<br>Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Recursion, Map](0106-Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp) | Tree Traversal |
