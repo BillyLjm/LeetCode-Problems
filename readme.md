@@ -15,6 +15,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Priority Queue](0023-Merge_k_Sorted_Lists.cpp) | Priority Queue, Pointers |
 |   24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Pointers](0024-Swap_Nodes_in_Pairs.cpp) | Linked Lists |
 |   28 | [Find the Index of the First<br>Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [KMP Substring](0028-Find_The_Index_Of_The_First_Occurence_In_A_String.cpp) | Find Patterns |
+|   46 | [Permutations](https://leetcode.com/problems/permutations/) | [In-Built Function](0046-Permutations.cpp) | Combinatorics |
 |   54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Indexing](0054-Spiral_Matrix.cpp) | Arrays |
 |   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
 |   64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Dynamic Programming](0064-Minimum_Path_Sum.cpp) | Path Searching |
