@@ -11,6 +11,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 ## Problems
 | Num  | Title | Solutions | Concepts |
 |:----:|:-----:|:---------:|:--------:|
+|   17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Recursion](0017-Letter_Combinations_of_a_Phone_Number.cpp) | Combinatorics |
 |   20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Stack](0020-Valid_Parentheses.cpp) | Stack |
 |   23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Priority Queue](0023-Merge_k_Sorted_Lists.cpp) | Priority Queue, Pointers |
 |   24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Pointers](0024-Swap_Nodes_in_Pairs.cpp) | Linked Lists |
