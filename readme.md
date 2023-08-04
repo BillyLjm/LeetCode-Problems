@@ -29,6 +29,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  109 | [Convert Sorted List<br>to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | > [Vector](0109-Convert_Sorted_List_to_Binary_Search_Tree--Vector.cpp)<br>> [No Mid-Finding](0109-Convert_Sorted_List_to_Binary_Search_Tree--No_Mid_Finding.cpp) | Linked Lists,<br>Binary Trees |
 |  129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Recursion](0129-Sum_Root_to_Leaf_Numbers.cpp) | Binary Trees |
 |  133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Adjacency List](0133-Clone_Graph.cpp) | Undirected Graphs |
+|  139 | [Word Break](https://leetcode.com/problems/word-break/) | [Memoisation](0139-Word_Break.cpp) | Recursion |
 |  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Floyd's Cycle Finding](0142-Linked_List_Cycle_II.cpp) | Linked Lists |
 |  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0208-Implement_Trie_Prefix_Tree.cpp) | Trie/Prefix Tree |
 |  211 | [Design Add and Search<br>Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Trie/Prefix Tree](0211-Design_Add_and_Search_Words_Data_Structure.cpp) | Data Structures |
