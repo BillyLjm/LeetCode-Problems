@@ -24,6 +24,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | > [Dynamic Programming](0072-Edit_Distance--Dynamic_Programming.cpp)<br>> [Memoisation](0072-Edit_Distance--Memoisation.cpp) | Recursion, Memoisation,<br>Dynamic Programming |
 |   77 | [Combinations](https://leetcode.com/problems/combinations/) | [Recursion](0077-Combinations.cpp) | Combinatorics |
 |   87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [Dynamic Programming](0087-Scramble_String.cpp) | Substrings |
+|   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Dynamic Programming](0095-Unique_Binary_Search_Trees_II.cpp) | Combinatorics |
 |  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Tree Traversal](0101-Symmetric_Tree.cpp) | Tree Traversal |
 |  106 | [Construct Binary Tree from<br>Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Recursion, Map](0106-Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp) | Tree Traversal |
 |  109 | [Convert Sorted List<br>to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | > [Vector](0109-Convert_Sorted_List_to_Binary_Search_Tree--Vector.cpp)<br>> [No Mid-Finding](0109-Convert_Sorted_List_to_Binary_Search_Tree--No_Mid_Finding.cpp) | Linked Lists,<br>Binary Trees |
