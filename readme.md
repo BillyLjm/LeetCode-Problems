@@ -27,6 +27,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Binary Search](0074-Search_a_2D_Matrix.cpp) | Searching |
 |   77 | [Combinations](https://leetcode.com/problems/combinations/) | [Recursion](0077-Combinations.cpp) | Combinatorics |
 |   81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Binary Search](0081_Search_in_Rotated_Sorted_Array_II.cpp) | Search |
+|   86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Pointers](0086-Partition_List.cpp) | Linked Lists |
 |   87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [Dynamic Programming](0087-Scramble_String.cpp) | Substrings |
 |   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Dynamic Programming](0095-Unique_Binary_Search_Trees_II.cpp) | Combinatorics |
 |  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Tree Traversal](0101-Symmetric_Tree.cpp) | Tree Traversal |
