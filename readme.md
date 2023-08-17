@@ -52,6 +52,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
 |  518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [Recursion](0518-Coin_Change_II.cpp) | Recursion |
 |  530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Recursion](0530-Minimum_Absolute_Difference_in_BST.java) | Tree Traversal |
+|  542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Breadth-First Search](0542-01_Matrix.cpp) | Mazes |
 |  547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Union-Find](0547-Number_of_Provinces.cpp) | Disjoint Sets |
 |  605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Iteration](0605-Can_Place_Flowers.cpp) | Logic |
 |  649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Greedy](0649-Dota2_Senate.cpp) | Data Structures |
