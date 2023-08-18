@@ -109,6 +109,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [Memoisation](1575-Count_All_Possible_Routes.java) | Recursion |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Union-Find](1579-Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Disjoint Sets |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Vector](1603-Design_Parking_System.cpp) | Classes |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [In-Degree](1615-Maximal_Network_Rank.cpp) | Graphs |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Value Swap](1721-Swapping_Nodes_in_a_Linked_List.cpp) | Linked Lists |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Iteration](1732-Find_the_Highest_Altitude.java) | Arrays |
