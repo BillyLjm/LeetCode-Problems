@@ -84,6 +84,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [Changelog](1146-Snapshot_Array.cpp) | Version Control |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Breadth-First Search](1161-Maximum_Level_Sum_of_a_Binary_Tree.java) | Tree Traversal |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Memoisation](1187-Make_Array_Strictly_Increasing.java) | Games |
+| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Topological Sort](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | Ordering |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Slope](1232_Check_If_It_Is_a_Straight_line.cpp) | Geometry |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Bitwise](1318-Minimum_Flips_to_Make_A_Or_B_Equal_to_C.cpp) | Bitwise Operations |
@@ -104,7 +105,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [Dijkstra's Algorithm](1514-Path_with_Maximum_Probability.java) | Graph Traversal |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Dynamic Programming](1547-Minimum_Cost_to_Cut_Stick.cpp) | Problem Solving |
-| 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Topo Sort](1557-Minimum_Number_of_Vertices_to_Reach_All_Nodes.cpp) | Directed Graphs |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Topological Sort](1557-Minimum_Number_of_Vertices_to_Reach_All_Nodes.cpp) | Directed Graphs |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Recursion](1569-Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.java) | Permutations |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Indexing](1572-Matrix_Diagonal_Sum.cpp) | Arrays |
 | 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [Memoisation](1575-Count_All_Possible_Routes.java) | Recursion |
@@ -117,7 +118,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Dynamic Programming](1799-Maximize_Score_after_N_Operations.cpp) | Substructure, Data Types |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [Binary Search](1802-Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.cpp) | Problem Solving |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Iteration](1822-Sign_of_the_Product_of_an_Array.cpp) | Minimal Resource |
-| 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Kahn's Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
+| 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Topological Sort](1857-Largest_Color_Value_in_Directed_Graph.cpp) | Directed Graphs |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [Dynamic Programming](2187-Minimum_Time_To_Complete_Trips.cpp) | Permutations |
 | 1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Union-Find](1970-Last_Day_Where_You_Can_Still_Cross.java) | Disjoint Sets |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Sliding Window](2090-K_Radius_Subarray_Averages.java) | Iteration |
@@ -132,7 +133,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Sets](2336-Smallest_Number_in_Inifinite_Set.cpp) | Ordered Sets |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Iteration](2348-Number_of_Zero_Filled_Subarrays.cpp) | Permutations |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Hashmap](2352-Equal_Row_and_Column_Pairs.java) | Value Lookup |
-| 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Kahn's Topological Sort](2360-Longest_Cycle_in_a_Graph.cpp) | Graph Cycles |
+| 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Topological Sort](2360-Longest_Cycle_in_a_Graph.cpp) | Graph Cycles |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Dynamic Programming](2369-Check_if_There_is_a_Valid_Parition_For_The_Array.cpp) | Pattern Finding |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Stack](2390-Removing_Stars_From_a_String.cpp) | Iteration |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [Greedy](2405-Optimal_Partition_of_String.cpp) | Problem Solving |
