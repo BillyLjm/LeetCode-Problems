@@ -37,6 +37,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Adjacency List](0133-Clone_Graph.cpp) | Undirected Graphs |
 |  139 | [Word Break](https://leetcode.com/problems/word-break/) | [Memoisation](0139-Word_Break.cpp) | Recursion |
 |  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Floyd's Cycle Finding](0142-Linked_List_Cycle_II.cpp) | Linked Lists |
+|  168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Binary Conversion](0168-Excel_Sheet_Column_Title.cpp) | Bases |
 |  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0208-Implement_Trie_Prefix_Tree.cpp) | Trie/Prefix Tree |
 |  211 | [Design Add and Search<br>Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Trie/Prefix Tree](0211-Design_Add_and_Search_Words_Data_Structure.cpp) | Data Structures |
 |  215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [QuickSelect](0215-Kth_Largest_Element_in_an_Array.cpp) | Sorting |
