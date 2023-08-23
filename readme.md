@@ -65,7 +65,8 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Vector](0705-Design_HashSet.cpp) | Data Structure |
 |  714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Iteration](0714-Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java) | Iteration |
 |  744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Binary Search](0744-Find_Smallest_Letter_Greater_Than_Target.cpp) | Search |
-|  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/ | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
+|  767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [String Braiding](0767_Reorganize_String.cpp) | Braiding |
+|  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
 |  837 | [New   21 Game](https://leetcode.com/problems/new-21-game/) | [Dynamic Programming](0837-New_21_Game.cpp) | Problem Solving |
 |  839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Union-Find](0839-Similar_String_Groups.cpp) | Disjoint Sets |
 |  864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [Breadth-First Search](0864-Shortest_Path_to_Get_All_Keys.py) | Mazes |
