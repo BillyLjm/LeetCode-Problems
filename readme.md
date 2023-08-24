@@ -22,6 +22,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
 |   63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Dynamic Programming](0063-Unique_Paths_II.cpp) | Maze Searching |
 |   64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Dynamic Programming](0064-Minimum_Path_Sum.cpp) | Path Searching |
+|   68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Iteration](0068-Text_Justification.cpp) | Strings |
 |   71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Vector](0071-Simplify_Path.cpp) | String Parsing |
 |   72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | > [Dynamic Programming](0072-Edit_Distance--Dynamic_Programming.cpp)<br>> [Memoisation](0072-Edit_Distance--Memoisation.cpp) | Recursion, Memoisation,<br>Dynamic Programming |
 |   74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Binary Search](0074-Search_a_2D_Matrix.cpp) | Searching |
