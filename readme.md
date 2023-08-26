@@ -59,6 +59,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Breadth-First Search](0542-01_Matrix.cpp) | Mazes |
 |  547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Union-Find](0547-Number_of_Provinces.cpp) | Disjoint Sets |
 |  605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Iteration](0605-Can_Place_Flowers.cpp) | Logic |
+|  646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Greedy](0646-Maximum_Length_of_Pair_Chain.cpp) | Problem Solving |
 |  649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Greedy](0649-Dota2_Senate.cpp) | Data Structures |
 |  652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Hashing](0652-Find_Duplicate_Subtrees.cpp) | Hashing, Binary Trees |
 |  685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Union-Find](0685-Redundant_Connection_II.cpp) | Trees |
