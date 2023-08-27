@@ -51,6 +51,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Priority Queue](0373-Find_K_Pairs_with_Smallest_Sum.java) | Permutations |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
 |  399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Depth-First Search](0399-Evaluate_Division.cpp) | Graph Representation |
+|  403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Memoisation](0403-Frog_Jump.cpp | Recursion |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
 |  459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Iteration](0459-Repeated_Substring_Pattern.cpp) | Substrings |
