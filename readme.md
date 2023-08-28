@@ -43,6 +43,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0208-Implement_Trie_Prefix_Tree.cpp) | Trie/Prefix Tree |
 |  211 | [Design Add and Search<br>Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Trie/Prefix Tree](0211-Design_Add_and_Search_Words_Data_Structure.cpp) | Data Structures |
 |  215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [QuickSelect](0215-Kth_Largest_Element_in_an_Array.cpp) | Sorting |
+|  225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Double-Ended Queue](0225-Implement_Stack_Using_Queues.cpp) | Data Structures |
 |  228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Iteration](0228-Summary_Ranges.cpp) | Strings |
 |  239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Double Ended Queue](0239-Sliding_Window_Maximum.cpp) | Sliding Windows |
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Maths](0258-Add_Digits.cpp) | Maths |
