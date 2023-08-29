@@ -150,6 +150,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [Convex Optimisation](2448-Minimum_Cost_to_Make_Array_Equal.java) | Optimisation |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [Priority Queue](2462-Total_Cost_to_Hire_K_Workers.java) | Queues |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Dynamic Programming](2466-Count_Ways_to_Build_Good_Strings.cpp) | Optimal Substructure |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Iteration](2483-Minimum_Penalty_for_a_Shop.cpp) | Iteration |
 | 2492 | [Minimum Score of a<br>Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Union-Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Problem Reduction](2542-Maximum_Subsequence_Score.cpp) | Problem Solving |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Binary Search, Greedy](2616-Minimize_the_Maximum_Difference_of_Pairs.cpp) | Problem Solving |
