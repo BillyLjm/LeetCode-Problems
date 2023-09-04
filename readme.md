@@ -20,6 +20,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   46 | [Permutations](https://leetcode.com/problems/permutations/) | [In-Built Function](0046-Permutations.cpp) | Combinatorics |
 |   54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Indexing](0054-Spiral_Matrix.cpp) | Arrays |
 |   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
+|   62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Dynamic Programming](0062-Unique_Paths.cpp) | Maze Searching |
 |   63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Dynamic Programming](0063-Unique_Paths_II.cpp) | Maze Searching |
 |   64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Dynamic Programming](0064-Minimum_Path_Sum.cpp) | Path Searching |
 |   68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Iteration](0068-Text_Justification.cpp) | Strings |
