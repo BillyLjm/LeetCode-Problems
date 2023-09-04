@@ -48,6 +48,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Double Ended Queue](0239-Sliding_Window_Maximum.cpp) | Sliding Windows |
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Maths](0258-Add_Digits.cpp) | Maths |
 |  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Maths](0319-Bulb_Switcher.cpp) | Maths |
+|  338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Recursion](0338-Counting_Bits.cpp) | Binary Numbers |
 |  347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Quickselect](0347-Top_K_Frequent_Elements.cpp) | Selection |
 |  373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Priority Queue](0373-Find_K_Pairs_with_Smallest_Sum.java) | Permutations |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
