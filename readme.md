@@ -73,6 +73,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Binary Search](0704-Binary_Search.cpp) | Array Searching |
 |  705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Vector](0705-Design_HashSet.cpp) | Data Structure |
 |  714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Iteration](0714-Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java) | Iteration |
+|  725 | [Split Linked List in Parts](hhttps://leetcode.com/problems/split-linked-list-in-parts/) | [Pointers](0725-Split_Linked_List_in_Parts.cpp) | Linked Lists |
 |  744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Binary Search](0744-Find_Smallest_Letter_Greater_Than_Target.cpp) | Search |
 |  767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [String Braiding](0767_Reorganize_String.cpp) | Braiding |
 |  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
