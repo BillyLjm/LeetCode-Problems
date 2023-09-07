@@ -31,6 +31,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Binary Search](0081_Search_in_Rotated_Sorted_Array_II.cpp) | Search |
 |   86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Pointers](0086-Partition_List.cpp) | Linked Lists |
 |   87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [Dynamic Programming](0087-Scramble_String.cpp) | Substrings |
+|   92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Pointers](0092-Reverse_Linked_List_II.cpp) | Linked Lists |
 |   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Dynamic Programming](0095-Unique_Binary_Search_Trees_II.cpp) | Combinatorics |
 |   97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Memoisation](0097-Interleaving_String.cpp) | Recursion |
 |  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Tree Traversal](0101-Symmetric_Tree.cpp) | Tree Traversal |
