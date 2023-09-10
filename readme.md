@@ -56,6 +56,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Recursion](0338-Counting_Bits.cpp) | Binary Numbers |
 |  347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Quickselect](0347-Top_K_Frequent_Elements.cpp) | Selection |
 |  373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Priority Queue](0373-Find_K_Pairs_with_Smallest_Sum.java) | Permutations |
+|  377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Dynamic Programming](0377-Combination_Sum_IV.cpp) | Data Types |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
 |  399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Depth-First Search](0399-Evaluate_Division.cpp) | Graph Representation |
 |  403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Memoisation](0403-Frog_Jump.cpp | Recursion |
