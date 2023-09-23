@@ -60,7 +60,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Dynamic Programming](0377-Combination_Sum_IV.cpp) | Data Types |
 |  382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Reservoir Sampling](0382-Linked_List_Random_Node.cpp) | Reservoir Sampling |
 |  399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Depth-First Search](0399-Evaluate_Division.cpp) | Graph Representation |
-|  403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Memoisation](0403-Frog_Jump.cpp | Recursion |
+|  403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Memoisation](0403-Frog_Jump.cpp) | Recursion |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
 |  459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Iteration](0459-Repeated_Substring_Pattern.cpp) | Substrings |
@@ -95,6 +95,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Flood Fill](1020-Number_of_Enclaves.cpp) | Recursion |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Hashmap](1027-Longest_Arithmetic_Subsequence.java) | Time Complexity |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Dynamic Programming](1035-Uncrossed_Lines.cpp) | Subsequences |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Dynamic Programming](1048-Longest_String_Chain.cpp) | Substrings |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](1091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Memoisation](1140-Stone_Game_II.cpp) | Problem Solving |
 | 1144 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Dynamic Programming](1444-Number_of_Ways_of_Cutting_a_Pizza.cpp) | Problem Solving |
