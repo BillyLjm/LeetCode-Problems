@@ -51,6 +51,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [QuickSelect](0215-Kth_Largest_Element_in_an_Array.cpp) | Sorting |
 |  225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Double-Ended Queue](0225-Implement_Stack_Using_Queues.cpp) | Data Structures |
 |  228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Iteration](0228-Summary_Ranges.cpp) | Strings |
+|  238 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Greedy](0238-Remove_Colored_Pieces_if_Both_Neighbours_are_the_Same_Color.cpp) | Games |
 |  239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Double Ended Queue](0239-Sliding_Window_Maximum.cpp) | Sliding Windows |
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Maths](0258-Add_Digits.cpp) | Maths |
 |  316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Greedy](0316-Remove_Duplicate_Letters.cpp) | Data Structures |
