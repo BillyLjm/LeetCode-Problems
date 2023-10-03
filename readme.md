@@ -130,6 +130,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Iteration](1491-Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.cpp) | Data Types |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Permutation,<br>Modular Exp](1491-Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.cpp) | Permutation,<br>Integer Overflow |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Iteration](1502-Can_Make_Arithmetic_Progression_From_Sequence.cpp) | Iteration |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Count](1512-Number_of_Good_Pairs.cpp) | Arrays |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [Dijkstra's Algorithm](1514-Path_with_Maximum_Probability.java) | Graph Traversal |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Dynamic Programming](1547-Minimum_Cost_to_Cut_Stick.cpp) | Problem Solving |
