@@ -58,6 +58,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Greedy](0316-Remove_Duplicate_Letters.cpp) | Data Structures |
 |  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Maths](0319-Bulb_Switcher.cpp) | Maths |
 |  338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Recursion](0338-Counting_Bits.cpp) | Binary Numbers |
+|  343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Maths](0343-Integer_Break.cpp) | Maths |
 |  347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Quickselect](0347-Top_K_Frequent_Elements.cpp) | Selection |
 |  373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Priority Queue](0373-Find_K_Pairs_with_Smallest_Sum.java) | Permutations |
 |  377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Dynamic Programming](0377-Combination_Sum_IV.cpp) | Data Types |
