@@ -126,6 +126,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Unordered Maps](1396_Design_Underground_System.cpp) | Data Structures |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](1402-Reducing_Dishes.cpp) | Problem-Solving |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Memoisation](1406_Stone_Game_III.cpp) | Problem-Solving |
+| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [Dynamic Programming](1420-Build_Array_Where_You_Can_Find_The_Maximum_Exactly_k_Comparisons.cpp) | Problem-Solving |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Sliding Window](1456-Maximum_Number_of_Vowels_in_a_Substing_of_Given_Length.cpp) | Problem-Solving |
 | 1466 | [Reorder Routes to Make All<br>Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Breadth-First Search](1466-Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.cpp) | Tree Traversal |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Vector](1472-Design_Browser_History.cpp) | Data Structures |
