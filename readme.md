@@ -17,6 +17,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Pointers](0024-Swap_Nodes_in_Pairs.cpp) | Linked Lists |
 |   28 | [Find the Index of the First<br>Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [KMP Substring](0028-Find_The_Index_Of_The_First_Occurence_In_A_String.cpp) | Find Patterns |
 |   33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Modified Binary Search](0033-Search_in_Rotated_Sorted_Array.cpp) | Search |
+|   34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Search](0034-Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Search |
 |   46 | [Permutations](https://leetcode.com/problems/permutations/) | [In-Built Function](0046-Permutations.cpp) | Combinatorics |
 |   54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Indexing](0054-Spiral_Matrix.cpp) | Arrays |
 |   59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Robot](0059-Spiral_Matrix_II.cpp) | Arrays |
