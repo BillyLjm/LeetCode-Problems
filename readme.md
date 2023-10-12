@@ -108,6 +108,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Dynamic Programming](1035-Uncrossed_Lines.cpp) | Subsequences |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Dynamic Programming](1048-Longest_String_Chain.cpp) | Substrings |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](1091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
+| 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Binary Search](1095-Find_in_Mountain_Array.cpp) | Sorted Arrays |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Memoisation](1140-Stone_Game_II.cpp) | Problem Solving |
 | 1144 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Dynamic Programming](1444-Number_of_Ways_of_Cutting_a_Pizza.cpp) | Problem Solving |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [Changelog](1146-Snapshot_Array.cpp) | Version Control |
