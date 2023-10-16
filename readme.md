@@ -39,6 +39,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  106 | [Construct Binary Tree from<br>Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Recursion, Map](0106-Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp) | Tree Traversal |
 |  109 | [Convert Sorted List<br>to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | > [Vector](0109-Convert_Sorted_List_to_Binary_Search_Tree--Vector.cpp)<br>> [No Mid-Finding](0109-Convert_Sorted_List_to_Binary_Search_Tree--No_Mid_Finding.cpp) | Linked Lists,<br>Binary Trees |
 |  118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Iteration](0118-Pascals_Triangle.cpp) | Iteration |
+|  119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Dynamic Programming](0119-Pascals_Triangle_II.cpp) | Iteration |
 |  129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Recursion](0129-Sum_Root_to_Leaf_Numbers.cpp) | Binary Trees |
 |  133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Adjacency List](0133-Clone_Graph.cpp) | Undirected Graphs |
 |  135 | [Candy](hhttps://leetcode.com/problems/candy/) | [Two Pass](0135-Candy.cpp) | Problem Solving |
