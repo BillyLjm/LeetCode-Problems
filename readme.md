@@ -94,6 +94,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Physics](0799-Champagne_Tower.cpp) | Modelling |
 |  837 | [New   21 Game](https://leetcode.com/problems/new-21-game/) | [Dynamic Programming](0837-New_21_Game.cpp) | Problem Solving |
 |  839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Union-Find](0839-Similar_String_Groups.cpp) | Disjoint Sets |
+|  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Pointers](0844-Backspace_String_Compare.cpp) | Strings |
 |  864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [Breadth-First Search](0864-Shortest_Path_to_Get_All_Keys.py) | Mazes |
 |  875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Binary Search](0875-Koko_Eating_Bananas.cpp) | Binary Search, Integer Overflow |
 |  881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Greedy](0881-Boats_to_Save_People.cpp) | Problem Solving |
