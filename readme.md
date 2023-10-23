@@ -61,6 +61,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Maths](0319-Bulb_Switcher.cpp) | Maths |
 |  338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Recursion](0338-Counting_Bits.cpp) | Binary Numbers |
 |  341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Stack](0341-Flatten_Nested_List_Iterator.cpp) | Nested Lists |
+|  342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Maths](0342-Power_of_Four.cpp) | Floats |
 |  343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Maths](0343-Integer_Break.cpp) | Maths |
 |  347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Quickselect](0347-Top_K_Frequent_Elements.cpp) | Selection |
 |  373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Priority Queue](0373-Find_K_Pairs_with_Smallest_Sum.java) | Permutations |
