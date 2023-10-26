@@ -96,7 +96,8 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Binary Tree](0779-Kth_Symbol_in_Grammar.cpp) | Recursion |
 |  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
 |  799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Physics](0799-Champagne_Tower.cpp) | Modelling |
-|  837 | [New   21 Game](https://leetcode.com/problems/new-21-game/) | [Dynamic Programming](0837-New_21_Game.cpp) | Problem Solving |
+|  823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Dynamic Programming](0823-Binary_Tree_with_Factors.cpp) | Problem Solving |
+|  837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Dynamic Programming](0837-New_21_Game.cpp) | Problem Solving |
 |  839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Union-Find](0839-Similar_String_Groups.cpp) | Disjoint Sets |
 |  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Pointers](0844-Backspace_String_Compare.cpp) | Strings |
 |  864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [Breadth-First Search](0864-Shortest_Path_to_Get_All_Keys.py) | Mazes |
