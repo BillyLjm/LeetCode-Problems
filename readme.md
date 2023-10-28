@@ -123,7 +123,8 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [Changelog](1146-Snapshot_Array.cpp) | Version Control |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Breadth-First Search](1161-Maximum_Level_Sum_of_a_Binary_Tree.java) | Tree Traversal |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Memoisation](1187-Make_Array_Strictly_Increasing.java) | Games |
-| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Topological Sort](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | Ordering |
+| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Topological Sort](1203_Sort_Items_by_Groups_Respecting_Dependencies.cpp) | Ordering |
+| 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Dynamic Programming](1220-Count_Vowels_Permutation.cpp) | Problem Solving |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Slope](1232_Check_If_It_Is_a_Straight_line.cpp) | Geometry |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Dynamic Programming](1269-Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.cpp) | Problem Solving |
