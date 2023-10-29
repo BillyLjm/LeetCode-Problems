@@ -73,6 +73,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Memoisation](0403-Frog_Jump.cpp) | Recursion |
 |  429 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Recursion](0429-Construct_Quad_Tree.cpp) | Recursion, Memory Allocation |
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
+|  458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [Tensors](0458-Poor_Pigs.cpp) | Problem Solving |
 |  459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Iteration](0459-Repeated_Substring_Pattern.cpp) | Substrings |
 |  515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [DFS](0515-Find_Largest_Value_in_Each_Tree_Row.cpp) | Binary Trees |
 |  518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [Recursion](0518-Coin_Change_II.cpp) | Recursion |
