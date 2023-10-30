@@ -135,6 +135,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Greedy](11326-Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.cpp) | Caching |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Breadth-First Search](1345-Jump_Game_IV.cpp) | Path Finding |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Iteration](1351-Count_Negative_Numbers_in_a_Sorted_Matrix.cpp) | Iteration |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Bitwise](1356-Sort_Integers_by_the_Number_of_1_Bits.cpp) | Bits |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Maths](1359-Count_All_Valid_Pickup_and_Delivery_Options.cpp) | Integer Overflow |
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [Union-Find (Modified)](1361-Validate_Binary_Tree_Nodes.cpp) | Binary Trees |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Depth First Search](1376-Time_Needed_to_Inform_All_Employees.cpp) | Tree Traversal |
