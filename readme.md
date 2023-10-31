@@ -194,6 +194,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Dynamic Programming](2369-Check_if_There_is_a_Valid_Parition_For_The_Array.cpp) | Pattern Finding |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Stack](2390-Removing_Stars_From_a_String.cpp) | Iteration |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [Greedy](2405-Optimal_Partition_of_String.cpp) | Problem Solving |
+| 2433 | [Find The Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Maths](2433-Find_the_Original_Array_of_Prefix_XOR.cpp) | Bitwise Operations |
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [Greedy](2439-Minimize_Maximum_of_Array.cpp) | Problem Solving |
 | 2444 | [Count Subarrays w/ Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Iteration](2444-Count_Subarrays_With_Fixed_Bounds.cpp) | Iteration |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [Convex Optimisation](2448-Minimum_Cost_to_Make_Array_Equal.java) | Optimisation |
