@@ -29,6 +29,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |   71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Vector](0071-Simplify_Path.cpp) | String Parsing |
 |   72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | > [Dynamic Programming](0072-Edit_Distance--Dynamic_Programming.cpp)<br>> [Memoisation](0072-Edit_Distance--Memoisation.cpp) | Recursion, Memoisation,<br>Dynamic Programming |
 |   74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Binary Search](0074-Search_a_2D_Matrix.cpp) | Searching |
+|   75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Counting Sort](0075-Sort_Colors.cpp) | Sorting |
 |   77 | [Combinations](https://leetcode.com/problems/combinations/) | [Recursion](0077-Combinations.cpp) | Combinatorics |
 |   81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Binary Search](0081_Search_in_Rotated_Sorted_Array_II.cpp) | Search |
 |   86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Pointers](0086-Partition_List.cpp) | Linked Lists |
