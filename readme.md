@@ -61,6 +61,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Maths](0258-Add_Digits.cpp) | Maths |
 |  316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Greedy](0316-Remove_Duplicate_Letters.cpp) | Data Structures |
 |  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Maths](0319-Bulb_Switcher.cpp) | Maths |
+|  330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [Greedy](0330-Patching_Array.cpp) | Integer Ranges |
 |  338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Recursion](0338-Counting_Bits.cpp) | Binary Numbers |
 |  341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Stack](0341-Flatten_Nested_List_Iterator.cpp) | Nested Lists |
 |  342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Maths](0342-Power_of_Four.cpp) | Floats |
