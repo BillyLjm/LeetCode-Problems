@@ -111,6 +111,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort](0912-Sort_an_Array.cpp) | Array Sorting |
 |  920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [Combinatorics](0920_Number_of_Music_Playlists.cpp) | Modular Arithmetic |
 |  934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Breadth-First Search](0934-Shortest_Bridge.cpp) | Graphs |
+|  945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Sorting](0945-Minimum_Increment_to_Make_Array_Unique.cpp) | Problem Solving |
 |  956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Dynamic Programming](0956-Tallest_Billboard.java) | Problem Simplification |
 |  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/sort-an-array/) | [Depth-First Search](0958-Check_Completeness_of_a_Binary_Tree.cpp) | Binary Trees |
 |  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
