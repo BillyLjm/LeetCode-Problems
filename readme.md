@@ -76,6 +76,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Iteration](0443-String_Compression.cpp) | Array Looping |
 |  458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [Tensors](0458-Poor_Pigs.cpp) | Problem Solving |
 |  459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Iteration](0459-Repeated_Substring_Pattern.cpp) | Substrings |
+|  502 | [IPO](https://leetcode.com/problems/ipo/) | [Greedy](0502-IPO.cpp) | Problem Solving |
 |  515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [DFS](0515-Find_Largest_Value_in_Each_Tree_Row.cpp) | Binary Trees |
 |  518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [Recursion](0518-Coin_Change_II.cpp) | Recursion |
 |  530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Recursion](0530-Minimum_Absolute_Difference_in_BST.java) | Tree Traversal |
