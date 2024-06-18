@@ -103,6 +103,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
 |  799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Physics](0799-Champagne_Tower.cpp) | Modelling |
 |  823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Dynamic Programming](0823-Binary_Tree_with_Factors.cpp) | Problem Solving |
+|  826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [Greedy](0826-Most_Profit_Assigning_Work.cpp) | Allocation |
 |  837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Dynamic Programming](0837-New_21_Game.cpp) | Problem Solving |
 |  839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Union-Find](0839-Similar_String_Groups.cpp) | Disjoint Sets |
 |  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Pointers](0844-Backspace_String_Compare.cpp) | Strings |
