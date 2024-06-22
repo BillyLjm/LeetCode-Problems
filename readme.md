@@ -123,6 +123,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Hashmap](1027-Longest_Arithmetic_Subsequence.java) | Time Complexity |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Dynamic Programming](1035-Uncrossed_Lines.cpp) | Subsequences |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Dynamic Programming](1048-Longest_String_Chain.cpp) | Substrings |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Sliding Window](1052-Grumpy_Bookstore_Owner.cpp) | Iteration |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](1091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Binary Search](1095-Find_in_Mountain_Array.cpp) | Sorted Arrays |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Memoisation](1140-Stone_Game_II.cpp) | Problem Solving |
