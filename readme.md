@@ -134,6 +134,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Topological Sort](1203_Sort_Items_by_Groups_Respecting_Dependencies.cpp) | Ordering |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Dynamic Programming](1220-Count_Vowels_Permutation.cpp) | Problem Solving |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Slope](1232_Check_If_It_Is_a_Straight_line.cpp) | Geometry |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Sliding Window](1248-Count_Number_of_Nice_Subarrays.cpp) | Iteration |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Flood Fill](1254-Number_of_Closed_Islands.cpp) | Recursion |
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Dynamic Programming](1269-Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.cpp) | Problem Solving |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Greedy](1282-Group_the_People_Given_the_Group_Size_They_Belong_To.cpp) | Problem Solving |
