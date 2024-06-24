@@ -119,6 +119,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Dynamic Programming](0956-Tallest_Billboard.java) | Problem Simplification |
 |  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/sort-an-array/) | [Depth-First Search](0958-Check_Completeness_of_a_Binary_Tree.cpp) | Binary Trees |
 |  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Dynamic Programming](0983-Minimum_Cost_for_Tickets.cpp) | Logic |
+|  995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Bit-Wise](0995-Minimum_Number_of_K_Consecutive_Bit_Flips.cpp) | Bits |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Flood Fill](1020-Number_of_Enclaves.cpp) | Recursion |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Hashmap](1027-Longest_Arithmetic_Subsequence.java) | Time Complexity |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Dynamic Programming](1035-Uncrossed_Lines.cpp) | Subsequences |
