@@ -123,6 +123,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Flood Fill](1020-Number_of_Enclaves.cpp) | Recursion |
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Hashmap](1027-Longest_Arithmetic_Subsequence.java) | Time Complexity |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Dynamic Programming](1035-Uncrossed_Lines.cpp) | Subsequences |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Recursion](1038-Binary_Search_Tree_to_Greater_Sum_Tree.cpp) | Tree Traversal |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Dynamic Programming](1048-Longest_String_Chain.cpp) | Substrings |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Sliding Window](1052-Grumpy_Bookstore_Owner.cpp) | Iteration |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](1091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
