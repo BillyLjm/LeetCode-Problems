@@ -149,6 +149,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Maths](1359-Count_All_Valid_Pickup_and_Delivery_Options.cpp) | Integer Overflow |
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [Union-Find (Modified)](1361-Validate_Binary_Tree_Nodes.cpp) | Binary Trees |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Depth First Search](1376-Time_Needed_to_Inform_All_Employees.cpp) | Tree Traversal |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Inorder](1382-Balance_a_Binary_Search_Tree.cpp) | Binary Search Trees |
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Unordered Maps](1396_Design_Underground_System.cpp) | Data Structures |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Greedy](1402-Reducing_Dishes.cpp) | Problem-Solving |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Memoisation](1406_Stone_Game_III.cpp) | Problem-Solving |
