@@ -129,6 +129,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Sliding Window](1052-Grumpy_Bookstore_Owner.cpp) | Iteration |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Breadth-First Search](1091-Shortest_Path_in_Binary_Matrix.cpp) | Search |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Binary Search](1095-Find_in_Mountain_Array.cpp) | Sorted Arrays |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [Pre-Count](1139-Largest_1-Bordered_Square.cpp) | Problem Solving |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Memoisation](1140-Stone_Game_II.cpp) | Problem Solving |
 | 1144 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Dynamic Programming](1444-Number_of_Ways_of_Cutting_a_Pizza.cpp) | Problem Solving |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [Changelog](1146-Snapshot_Array.cpp) | Version Control |
