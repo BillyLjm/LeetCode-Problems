@@ -201,6 +201,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Hashmap](2215-Find_The_Difference_of_Two_Arrays.cpp) | Arrays |
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Binary Search](2251-Number_of_Flowers_in_Full_Bloom.cpp) | Ranges |
+| 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Greedy](2285-Maximum_Total_Importance_of_Roads.cpp) | Graphs |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Array Sorting](2300-Successful_Pairs_of_Spells_and_Potion.cpp) | Sorted Arrays |
 | 2316 | [Count Unreachable Pairs of<br>Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Union-Find](2316_Count_Unreachable_Pairs_of_Nodes_in_a_Undirected_Graph.cpp) | Disjoint Sets |
 | 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [Dynamic Programming](2328-Number_of_Increasing_Paths_in_a_Grid.java) | Problem Solving |
