@@ -171,6 +171,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [Dijkstra's Algorithm](1514-Path_with_Maximum_Probability.java) | Graph Traversal |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Dynamic Programming](1547-Minimum_Cost_to_Cut_Stick.cpp) | Problem Solving |
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Iteration](1550-Three_Consecutive_Odds.cpp) | Iteration |
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Binary Search](1552-Magnetic_Force_Between_Two_Balls.cpp) | Problem Solving |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Topological Sort](1557-Minimum_Number_of_Vertices_to_Reach_All_Nodes.cpp) | Directed Graphs |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Recursion](1569-Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.java) | Permutations |
