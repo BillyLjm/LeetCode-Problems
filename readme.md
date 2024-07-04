@@ -201,6 +201,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Sweepline DFS](2101_Detonate_the_Maximum_Bombs.cpp) | Geometry |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Reverse Linked List](2130-Maximum_Twin_Sum_of_Linked_List.cpp) | Linked Lists |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Dynamic Programming](2140-Solving_Questions_with_Brainpower.cpp) | Optimal Substructure |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Pointers](2181-Merge_Nodes_in_Between_Zeros.cpp) | Linked Lists |
 | 2187 | [Minimum Time to Complete Tips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Binary Search](2187-Minimum_Time_To_Complete_Trips.cpp) | Binary Search, Integer Overflow |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Hashmap](2215-Find_The_Difference_of_Two_Arrays.cpp) | Arrays |
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Binary Search](2251-Number_of_Flowers_in_Full_Bloom.cpp) | Ranges |
