@@ -197,6 +197,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2009 | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Sliding Window](2009-Minimum_Number_of_Operations_to_Make_Array_Continuous.cpp) | Problem Solving |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Direct Solution](2037-Minimum_Number_of_Moves_to_Seat_Everyone.cpp) | Problem Solving |
 | 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [Topological Sort](2050-Parallel_Courses_III.cpp) | Directed Graphs |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Crawl](2058-Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp) | Linked Lists |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Sliding Window](2090-K_Radius_Subarray_Averages.java) | Iteration |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Sweepline DFS](2101_Detonate_the_Maximum_Bombs.cpp) | Geometry |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Reverse Linked List](2130-Maximum_Twin_Sum_of_Linked_List.cpp) | Linked Lists |
