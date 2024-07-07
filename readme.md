@@ -171,6 +171,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Sorting](1509-Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.cpp) | Iteration |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Count](1512-Number_of_Good_Pairs.cpp) | Arrays |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [Dijkstra's Algorithm](1514-Path_with_Maximum_Probability.java) | Graph Traversal |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Iteration](1518-Water_Bottles.cpp) | Iteration |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Iteration](1539-Kth_Missing_Positive_Number.cpp) | Iteration |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Dynamic Programming](1547-Minimum_Cost_to_Cut_Stick.cpp) | Problem Solving |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Iteration](1550-Three_Consecutive_Odds.cpp) | Iteration |
