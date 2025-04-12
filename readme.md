@@ -232,3 +232,4 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Binary Search, Greedy](2616-Minimize_the_Maximum_Difference_of_Pairs.cpp) | Problem Solving |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [Memoisation](2707-Extra_Characters_in_a_String.cpp) | Substrings |
 | 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Dynamic Programming](2742-Painting_the_Walls.cpp) | Problem Solving |
+| 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Permutations](3272-Find_the_Count_of_Good_Integers.py) | Permutations |
