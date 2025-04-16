@@ -6,6 +6,8 @@ Billy.Ljm
 =======
 Problem
 =======
+https://leetcode.com/problems/find-the-count-of-good-integers/
+
 You are given two positive integers n and k.
 
 An integer x is called k-palindromic if:
