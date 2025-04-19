@@ -233,6 +233,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2492 | [Minimum Score of a<br>Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Union-Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
 | 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | [Sliding Window](2537-Count_the_Number_of_Good_Subarrays.py) | Problem Solving |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Problem Reduction](2542-Maximum_Subsequence_Score.cpp) | Problem Solving |
+| 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Binary Bisection](2563-Count_the_Number_of_Fair_Pairs.py) | Binary Search |
 | 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [Maths](2582-Pass_the_Pillow.cpp) | Problem Solving |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Binary Search, Greedy](2616-Minimize_the_Maximum_Difference_of_Pairs.cpp) | Problem Solving |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [Memoisation](2707-Extra_Characters_in_a_String.cpp) | Substrings |
