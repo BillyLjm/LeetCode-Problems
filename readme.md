@@ -103,6 +103,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Dynamic Programming](0746-Min_Cost_Climbing_Stairs.cpp) | Dynamic Programming |
 |  767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [String Braiding](0767_Reorganize_String.cpp) | Braiding |
 |  779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Binary Tree](0779-Kth_Symbol_in_Grammar.cpp) | Recursion |
+|  781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | [Counter](0781-Rabbits_in_Forest.py) | Groupings |
 |  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Recursion](0785-Is_Graph_Bipartite.cpp) | Graph Traversal |
 |  799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Physics](0799-Champagne_Tower.cpp) | Modelling |
 |  823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Dynamic Programming](0823-Binary_Tree_with_Factors.cpp) | Problem Solving |
