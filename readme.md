@@ -91,6 +91,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Breadth-First Search](0542-01_Matrix.cpp) | Mazes |
 |  547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Union-Find](0547-Number_of_Provinces.cpp) | Disjoint Sets |
 |  557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Swap](0557-Reverse_Words_in_a_String_III.cpp) | Strings |
+|  601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Gaps & Islands](0601-Human_Traffic_of_Stadium.sql) | Consecutive |
 |  605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Iteration](0605-Can_Place_Flowers.cpp) | Logic |
 |  633 | [Sum of Square Numbers](ttps://leetcode.com/problems/sum-of-square-numbers/) | [Two Pointers](0633-Sum_of_Square_Numbers.cpp) | Integers |
 |  646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Greedy](0646-Maximum_Length_of_Pair_Chain.cpp) | Problem Solving |
