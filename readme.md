@@ -64,6 +64,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  238 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Greedy](0238-Remove_Colored_Pieces_if_Both_Neighbours_are_the_Same_Color.cpp) | Games |
 |  239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Double Ended Queue](0239-Sliding_Window_Maximum.cpp) | Sliding Windows |
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Maths](0258-Add_Digits.cpp) | Maths |
+|  262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [GroupBy](0262-Trips_and_Users.sql) | GroupBy |
 |  316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Greedy](0316-Remove_Duplicate_Letters.cpp) | Data Structures |
 |  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Maths](0319-Bulb_Switcher.cpp) | Maths |
 |  330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [Greedy](0330-Patching_Array.cpp) | Integer Ranges |

@@ -17,15 +17,15 @@
  * +-------------+------+
  * id is the primary key (column with unique values) for this table.
  * Each row of this table contains information about the salary of an employee.
- *  
- * 
- * Write a solution to find the second highest distinct salary from the Employee 
+ *
+ *
+ * Write a solution to find the second highest distinct salary from the Employee
  * table. If there is no second highest salary, return null.
  *
  * ===========
  * My Approach
  * ===========
- * We use MAX since it is faster than sorting (and selecting the 2nd highest 
+ * We use MAX since it is faster than sorting (and selecting the 2nd highest
  * salary afterwards)
  ******************************************************************************/
 
