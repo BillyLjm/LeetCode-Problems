@@ -52,9 +52,10 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Floyd's Cycle Finding](0141-Linked_List_Cycle.cpp) | Linked Lists |
 |  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Floyd's Cycle Finding](0142-Linked_List_Cycle_II.cpp) | Linked Lists |
 |  168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Binary Conversion](0168-Excel_Sheet_Column_Title.cpp) | Bases |
-|  175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Left Join](0175-Combine_Two_Tables) | Joins |
-|  176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Max](0176-Second_Highest_Salary) | Max |
-|  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0208-Implement_Trie_Prefix_Tree.cpp) | Trie/Prefix Tree |
+|  175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Left Join](0175-Combine_Two_Tables.sql) | Joins |
+|  176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Max](0176-Second_Highest_Salary.sql) | Max |
+|  185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Dense Rank](0176-Second_Highest_Salary.sql) | Dense Rank |
+|  208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Map](0185-Department_Top_Three_Salaries.cpp) | Trie/Prefix Tree |
 |  211 | [Design Add and Search<br>Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Trie/Prefix Tree](0211-Design_Add_and_Search_Words_Data_Structure.cpp) | Data Structures |
 |  215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [QuickSelect](0215-Kth_Largest_Element_in_an_Array.cpp) | Sorting |
 |  225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Double-Ended Queue](0225-Implement_Stack_Using_Queues.cpp) | Data Structures |

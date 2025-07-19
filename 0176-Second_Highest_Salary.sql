@@ -1,5 +1,5 @@
 /*******************************************************************************
- * 0176-Second_Highest_Salary
+ * 0176-Second_Highest_Salary.sql
  * Billy.Ljm
  * 19 July 2025
  *
