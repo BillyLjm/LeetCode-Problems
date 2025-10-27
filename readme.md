@@ -44,6 +44,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Iteration](0118-Pascals_Triangle.cpp) | Iteration |
 |  119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Dynamic Programming](0119-Pascals_Triangle_II.cpp) | Iteration |
 |  122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Greedy](0122-Best_Time_to_Buy_and_Sell_Stock_II.cpp) | Problem Solving |
+|  127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Bidirectional BFS](0127-Word_Ladder.py) | Graph Traversal |
 |  129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Recursion](0129-Sum_Root_to_Leaf_Numbers.cpp) | Binary Trees |
 |  133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Adjacency List](0133-Clone_Graph.cpp) | Undirected Graphs |
 |  135 | [Candy](hhttps://leetcode.com/problems/candy/) | [Two Pass](0135-Candy.cpp) | Problem Solving |
