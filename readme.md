@@ -210,6 +210,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Crawl](2058-Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp) | Linked Lists |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Sliding Window](2090-K_Radius_Subarray_Averages.java) | Iteration |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Sweepline DFS](2101_Detonate_the_Maximum_Bombs.cpp) | Geometry |
+| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Iteration](2125-Number_of_Laser_Beams_in_a_Bank.py) | Problem Formulation |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Reverse Linked List](2130-Maximum_Twin_Sum_of_Linked_List.cpp) | Linked Lists |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Dynamic Programming](2140-Solving_Questions_with_Brainpower.cpp) | Optimal Substructure |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | [Intervals](2145-Count_the_Hidden_Sequences.py) | Sets |
