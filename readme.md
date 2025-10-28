@@ -52,6 +52,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 |  139 | [Word Break](https://leetcode.com/problems/word-break/) | [Memoisation](0139-Word_Break.cpp) | Recursion |
 |  141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Floyd's Cycle Finding](0141-Linked_List_Cycle.cpp) | Linked Lists |
 |  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Floyd's Cycle Finding](0142-Linked_List_Cycle_II.cpp) | Linked Lists |
+|  146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Hashed Doubly-Linked Lists](0146-LRU_Cache.py) | Data Structures |
 |  168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Binary Conversion](0168-Excel_Sheet_Column_Title.cpp) | Bases |
 |  175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Left Join](0175-Combine_Two_Tables.sql) | Joins |
 |  176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Max](0176-Second_Highest_Salary.sql) | Max |
