@@ -250,3 +250,4 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Dynamic Programming](2742-Painting_the_Walls.cpp) | Problem Solving |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Permutations](3272-Find_the_Count_of_Good_Integers.py) | Permutations |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Rolling Sum](3354-Make_Array_Elements_Equal_to_Zero.py) | Problem Solving |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Logarithm](3370-Smallest_Number_With_All_Set_Bits.py) | Maths |
