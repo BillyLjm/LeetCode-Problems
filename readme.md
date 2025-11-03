@@ -191,6 +191,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Recursion](1569-Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.java) | Permutations |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Indexing](1572-Matrix_Diagonal_Sum.cpp) | Arrays |
 | 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [Memoisation](1575-Count_All_Possible_Routes.java) | Recursion |
+| 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Pointers](1578-Minimum_Time_to_Make_Rope_Colorful.py) | Pointers |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Union-Find](1579-Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Disjoint Sets |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Vector](1603-Design_Parking_System.cpp) | Classes |
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [In-Degree](1615-Maximal_Network_Rank.cpp) | Graphs |
