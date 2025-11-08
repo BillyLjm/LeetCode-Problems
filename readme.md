@@ -194,6 +194,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Pointers](1578-Minimum_Time_to_Make_Rope_Colorful.py) | Pointers |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Union-Find](1579-Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.cpp) | Disjoint Sets |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Vector](1603-Design_Parking_System.cpp) | Classes |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) | [Bitstring](1611-Minimum_One_Bit_Operations_to_Make_Integers_Zero.py) | Patterns |
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [In-Degree](1615-Maximal_Network_Rank.cpp) | Graphs |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Iteration](11647-Minimum_Deletions_to_Make_Character_Frequencies_Unique.cpp) | Strings |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Union-Find](1697-Checking_Existence_of_Edge_Length_Limited_Paths.cpp) | Disjoint Sets |
