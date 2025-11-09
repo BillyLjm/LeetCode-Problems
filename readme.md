@@ -246,6 +246,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Dynamic Programming](2466-Count_Ways_to_Build_Good_Strings.cpp) | Optimal Substructure |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Iteration](2483-Minimum_Penalty_for_a_Shop.cpp) | Iteration |
 | 2492 | [Minimum Score of a<br>Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Union-Find](2492-Minimum_Score_of_a_Path_Between_Two_Cities.cpp) | Disjoint Sets |
+| 2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Binary Search + Greedy](2528-Maximize_the_Minimum_Powered_City.py) | Problem Solving |
 | 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | [Sliding Window](2537-Count_the_Number_of_Good_Subarrays.py) | Problem Solving |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Problem Reduction](2542-Maximum_Subsequence_Score.cpp) | Problem Solving |
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Binary Bisection](2563-Count_the_Number_of_Fair_Pairs.py) | Binary Search |
