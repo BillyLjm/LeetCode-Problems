@@ -259,3 +259,4 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Rolling Window](3318-Find_X-Sum_of_All_K-Long_Subarrays_I.py), [Priority Queues](3318-Find_X-Sum_of_All_K-Long_Subarrays_I-alt_pq.py) | Lists |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Rolling Sum](3354-Make_Array_Elements_Equal_to_Zero.py) | Problem Solving |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Logarithm](3370-Smallest_Number_With_All_Set_Bits.py) | Maths |
+| 3607 | [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | [Union-Find & Minheap](3607-Power_Grid_Maintenance.py) | Disjoint Sets |
