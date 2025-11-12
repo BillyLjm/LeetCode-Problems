@@ -253,6 +253,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Binary Bisection](2563-Count_the_Number_of_Fair_Pairs.py) | Binary Search |
 | 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [Maths](2582-Pass_the_Pillow.cpp) | Problem Solving |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Binary Search, Greedy](2616-Minimize_the_Maximum_Difference_of_Pairs.cpp) | Problem Solving |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Iteration](2654-Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1.py) | Puzzles |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [Memoisation](2707-Extra_Characters_in_a_String.cpp) | Substrings |
 | 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Dynamic Programming](2742-Painting_the_Walls.cpp) | Problem Solving |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Linked List](3217-Delete_Nodes_From_Linked_List_Present_in_Array.py) | Linked List |
