@@ -234,6 +234,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Sets](2336-Smallest_Number_in_Inifinite_Set.cpp) | Ordered Sets |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Iteration](2348-Number_of_Zero_Filled_Subarrays.cpp) | Permutations |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Hashmap](2352-Equal_Row_and_Column_Pairs.java) | Value Lookup |
+| 2356 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | [2D Difference Array](2356-Increment_Submatrices_by_One.py) | Matrix |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Topological Sort](2360-Longest_Cycle_in_a_Graph.cpp) | Graph Cycles |
 | 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [Iteration](2366-Minimum_Replacements_to_Sort_the_Array.cpp) | Problem Solving |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Dynamic Programming](2369-Check_if_There_is_a_Valid_Parition_For_The_Array.cpp) | Pattern Finding |
