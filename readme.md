@@ -259,6 +259,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Dynamic Programming](2742-Painting_the_Walls.cpp) | Problem Solving |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Linked List](3217-Delete_Nodes_From_Linked_List_Present_in_Array.py) | Linked List |
 | 3228 | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Iteration](3228-Maximum_Number_of_Operations_to_Move_Ones_to_the_End.py) | Puzzles |
+| 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Short-Circuit](3234-Count_the_Number_of_Substrings_With_Dominant_Ones.py) | Puzzles |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Permutations](3272-Find_the_Count_of_Good_Integers.py) | Permutations |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Rolling Window](3318-Find_X-Sum_of_All_K-Long_Subarrays_I.py), [Priority Queues](3318-Find_X-Sum_of_All_K-Long_Subarrays_I-alt_pq.py) | Lists |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Rolling Sum](3354-Make_Array_Elements_Equal_to_Zero.py) | Problem Solving |
