@@ -180,6 +180,7 @@ You can find me on LeetCode as [BillyLjm](https://leetcode.com/BillyLjm/).
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Iteration](1502-Can_Make_Arithmetic_Progression_From_Sequence.cpp) | Iteration |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Sorting](1509-Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.cpp) | Iteration |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Count](1512-Number_of_Good_Pairs.cpp) | Arrays |
+| 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Combinatorics](1513_Number_of_Substrings_With_Only_1s.py) | Combinatorics |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [Dijkstra's Algorithm](1514-Path_with_Maximum_Probability.java) | Graph Traversal |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Iteration](1518-Water_Bottles.cpp) | Iteration |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Numpy](1526-Minimum_Number_of_Increments_on_Subarrays_to_Form_a_Target_Array.py) | Problem Solving |
